@@ -1,21 +1,32 @@
-### 🧠 Backend
-<p>
+## Hi 👋, I'm Tèo Dev Lor
+
+**Full-Stack Web Developer**  
+Code with logic, ship with vibes ⚡
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" />
-</p>
 
-### 🎨 Frontend
-<p>
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-</p>
 
-### ⚙️ Infrastructure
-<p>
+  <!-- Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+</p>
+
+<p align="center">
+  ☁️ AWS EC2 · S3 &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Vibe Coding Enjoyer
 </p>
 
 ## 💭 Dev lor chân lý
