@@ -20,14 +20,19 @@ Code with logic, ship with vibes ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
-
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 </p>
 
 <p align="center">
-  ☁️ AWS EC2 · S3 &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Vibe Coding Enjoyer
+  <!-- Cloud badges -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
 </p>
+
+<p align="center">
+  ⚡ Vibe Coding Enjoyer
+</p>
+
 
 ## 💭 Dev lor chân lý
 
