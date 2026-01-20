@@ -22,6 +22,23 @@
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Architecture-Service-Icons/Arch_Compute/Arch_Amazon-EC2_48.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Architecture-Service-Icons/Arch_Storage/Arch_Amazon-S3_48.svg" width="40" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-Compute-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-Storage-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+</p>
+
+
 ## 💭 Dev lor chân lý
 
 <div align="center">
